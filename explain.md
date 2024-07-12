@@ -1,4 +1,4 @@
-let's break down the code, libraries, and the model used in the sarcasm detection script step-by-step.
+let's break down the code step-by-step.
 
 ### Code Breakdown
 
